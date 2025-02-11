@@ -30,23 +30,29 @@ This tutorial outlines the post-install configuration of the open-source help de
   
 
 <p>
-When we have our osTicket open the first thing we want to do is Click admin panel in the top right so we can configure all the permissions and rules like Roles, Departments, Teams, Agents, Users, and SLA (Service Level Agreement). When you click admin panel your screen should change and put you in the settings and the admin panel button now says Agent panel button.
+When we have our osTicket open the first thing we want to do is Click admin panel in the top right so we can configure all the permissions and rules like Roles, Departments, Teams, Agents, Users, and SLA (Service Level Agreement). When you click admin panel your screen should change and put you in the settings and the admin panel button now says Agent panel button. For this tutorial we are going to make one or two entities in each category so the next lab of Ticket Life Cycle example we can show what all the different components do and how it affects the ticketing software and user/agent interface.
 </p>
 <br />
 
-![image](https://github.com/user-attachments/assets/03b78919-81dd-4330-a9ce-35b7e0ed292a)
-![image](https://github.com/user-attachments/assets/41d048f4-3431-4962-805e-c1d8280baedc)
+![image](https://github.com/user-attachments/assets/991b8f89-4436-4c4a-8c08-337f6619b255)
+![image](https://github.com/user-attachments/assets/9f321774-b577-4c08-9bd5-389252e49e7a)
 
 
 </p>
 <p>
-The first Configuration I am going to demonstrate is Roles. In the same row as settings select Agents and click Add New Agent. Now here is where an Agent is added and you would add the employees information, access, and permissons. From here you can select what permission or access they have to the ticketing system. You can even assign them to certain teams which we will be creating later. This is useful for reasons like if you need this employee to be an admin and oversee and edit Users and Groups and Permissions or maybe this is a brand new employee who should only see and work on tickets assigned to them or their team. 
+The first Configuration I am going to demonstrate is Departments. In the same row as settings select Agents and in the row below Settings and Agents select Departments. Now click Add new Department. Now we will enter settings
 </p>
 <br />
 
+![image](https://github.com/user-attachments/assets/5310143d-e0cc-4b95-a8b9-e090cc61eeed)
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+It will now bring up a settings page for us to enter the settings information about this department. I will enter in a bunch of sample settings and then click on Access.
 </p>
+  
+![image](https://github.com/user-attachments/assets/e7ca0c1c-26e6-4a3c-85c0-2c08c1fc49a8)
+
+
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
