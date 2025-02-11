@@ -126,7 +126,7 @@ Now I am going to configure is the SLA (Service Level Agreements) and create 3 S
 ![image](https://github.com/user-attachments/assets/23813581-40a1-4581-8224-4f1592d7b590)
 
 <p>
-The very last thing to configure before I can showcase the Ticket Life Cycle example is creating 2 users Ken and Karen. To do this we have to refer back to the first step where we clicked in the top right and clicked admin panel and it changed our whole screen to the admin settings. Now we are going to do the same but where it used to say Admin Panel it Should now say Agent Panel and we need to select this to make our users. Once Agent panel is selected Select Users in the top row of tabs and then click add a user. Add in the user information and click cr
+The very last thing to configure before I can showcase the Ticket Life Cycle example is creating 2 users Ken and Karen. To do this we have to refer back to the first step where we clicked in the top right and clicked admin panel and it changed our whole screen to the admin settings. Now we are going to do the same but where it used to say Admin Panel it Should now say Agent Panel and we need to select this to make our users. Once Agent panel is selected Select Users in the top row of tabs and then click add a user. Add in the user information and click Add User and its done the user is created and now has a page for lookup that keeps track of past tickets or maybe some internal notes posted by Agents.
 </p>
 <br /> 
 
@@ -134,3 +134,9 @@ The very last thing to configure before I can showcase the Ticket Life Cycle exa
 
 ![image](https://github.com/user-attachments/assets/b1464bd7-91cf-4fe5-be17-350ab08063d2)
 
+![image](https://github.com/user-attachments/assets/a394f86e-4f8a-4f3a-ae2e-301bf5b2d147)
+
+<p>
+I've now completed the post install configuration of my osTicket Ticketing system and in the next lab will show examples of the Ticket Life Cycle and demonstrate how a user puts in tickets and what it looks like to Agents with high permissions and access like admins and Agents with low permission and access.
+</p>
+<br /> 
