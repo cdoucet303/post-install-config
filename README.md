@@ -117,8 +117,20 @@ I will now show what the Roles tab is for and how many Permissions it has that y
 
 
 <p>
-The last thing I am going to configure is the SLA (Service Level Agreements) and create 3 SLA Plans. These plans will be Sev-A (Grace Period: 1 hour, Schedule: 24/7), Sev-B (Grace Period: 4 hours, Schedule: 24/7), Sev-C (Grace Period: 8 hours, Business Hours). These basically declare the priority and/or seriousness of a ticket. Sev-A is the most serious as it will be flagged as overdue in one hour and should be done ASAP no matter the schedule it has priority 24/7. Sev-B is slightly lower priority as the schedule is the same but you should get it done in less than 4 hours and Sev-C is lowest Priority with the schedule being only business hours and it being flagged 8 hours if it goes undone. I am only showing screen shots for the creation of Sev-A as all creation screens are the same just depends what settings you apply to each SLA.
+Now I am going to configure is the SLA (Service Level Agreements) and create 3 SLA Plans. These plans will be Sev-A (Grace Period: 1 hour, Schedule: 24/7), Sev-B (Grace Period: 4 hours, Schedule: 24/7), Sev-C (Grace Period: 8 hours, Business Hours). These basically declare the priority and/or seriousness of a ticket. Sev-A is the most serious as it will be flagged as overdue in one hour and should be done ASAP no matter the schedule it has priority 24/7. Sev-B is slightly lower priority as the schedule is the same but you should get it done in less than 4 hours and Sev-C is lowest Priority with the schedule being only business hours and it being flagged 8 hours if it goes undone. I am only showing screen shots for the creation of Sev-A as all creation screens are the same just depends what settings you apply to each SLA.
 </p>
 <br />
 
 ![image](https://github.com/user-attachments/assets/d6eee27d-d0aa-4137-9d9c-527bccaec910)
+
+![image](https://github.com/user-attachments/assets/23813581-40a1-4581-8224-4f1592d7b590)
+
+<p>
+The very last thing to configure before I can showcase the Ticket Life Cycle example is creating 2 users Ken and Karen. To do this we have to refer back to the first step where we clicked in the top right and clicked admin panel and it changed our whole screen to the admin settings. Now we are going to do the same but where it used to say Admin Panel it Should now say Agent Panel and we need to select this to make our users. Once Agent panel is selected Select Users in the top row of tabs and then click add a user. Add in the user information and click cr
+</p>
+<br /> 
+
+![image](https://github.com/user-attachments/assets/31f7755f-8f55-46da-9e77-d6551e213b8b)
+
+![image](https://github.com/user-attachments/assets/b1464bd7-91cf-4fe5-be17-350ab08063d2)
+
