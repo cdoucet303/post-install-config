@@ -23,11 +23,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Configure Users
 - Configure SLA (Service Level Agreement)
 
-<h2>Post-Install Configuration Objectives </h2>
+<h2>Configuration Steps </h2>
 
-- Configure Roles (For Grouping Permissions)
-- Configure Departments
-  
 
 <p>
 When we have our osTicket open the first thing we want to do is Click admin panel in the top right so we can configure all the permissions and rules like Roles, Departments, Teams, Agents, Users, and SLA (Service Level Agreement). When you click admin panel your screen should change and put you in the settings and the admin panel button now says Agent panel button. For this tutorial we are going to make one or two entities in each category so the next lab of Ticket Life Cycle example we can show what all the different components do and how it affects the ticketing software and user/agent interface.
