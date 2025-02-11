@@ -117,6 +117,8 @@ I will now show what the Roles tab is for and how many Permissions it has that y
 
 
 <p>
-
+The last thing I am going to configure is the SLA (Service Level Agreements) and create 3 SLA Plans. These plans will be Sev-A (Grace Period: 1 hour, Schedule: 24/7), Sev-B (Grace Period: 4 hours, Schedule: 24/7), Sev-C (Grace Period: 8 hours, Business Hours). These basically declare the priority and/or seriousness of a ticket. Sev-A is the most serious as it will be flagged as overdue in one hour and should be done ASAP no matter the schedule it has priority 24/7. Sev-B is slightly lower priority as the schedule is the same but you should get it done in less than 4 hours and Sev-C is lowest Priority with the schedule being only business hours and it being flagged 8 hours if it goes undone. I am only showing screen shots for the creation of Sev-A as all creation screens are the same just depends what settings you apply to each SLA.
 </p>
 <br />
+
+![image](https://github.com/user-attachments/assets/d6eee27d-d0aa-4137-9d9c-527bccaec910)
