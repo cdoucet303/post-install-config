@@ -47,13 +47,28 @@ The first Configuration I am going to demonstrate is Departments. In the same ro
 ![image](https://github.com/user-attachments/assets/5310143d-e0cc-4b95-a8b9-e090cc61eeed)
 
 <p>
-It will now bring up a settings page for us to enter the settings information about this department. I will enter in a bunch of sample settings and then click on Access.
-</p>
-  
-![image](https://github.com/user-attachments/assets/e7ca0c1c-26e6-4a3c-85c0-2c08c1fc49a8)
-
-
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+It will now bring up a settings page for us to enter the settings information about this department. I will enter in a bunch of sample settings and then click on Access. When we click Access this is where we would select the Agents assigned to this department but we haven't created any yet so there nothing to put. I will no click create Department and it will take you back to the departments screen before I clicked Add New Department. I can now see the Department for IT has been created.
 </p>
 <br />
+
+![image](https://github.com/user-attachments/assets/c805ff52-3ed1-4c30-99ec-ebece189fc20)
+![image](https://github.com/user-attachments/assets/43bfa9d5-21db-4999-b738-391e38cc51f4)
+![image](https://github.com/user-attachments/assets/13061899-72aa-4998-9ebf-9f5588469f33)
+
+<p>
+Now on this same screen in the tab where we selected Departments we will now select Agents and click Add New Agent. Now here is where an Agent is added and you would add the employees information, access, and permissons. From here you can select what permission or access they have to the ticketing system. You can even assign them to certain teams which we will be creating later. This is useful for reasons like if you need this employee to be an admin and oversee and edit Users and Groups and Permissions or maybe this is a brand new employee who should only see and work on tickets assigned to them or their team.
+</p>
+<br />
+
+<p>
+For this example I will be making the Agent John Doe and give him Administartor Status. After the account info has been entered and status set we will click on Access.
+</p>
+<br />
+
+![image](https://github.com/user-attachments/assets/b4284514-a104-48fa-9e04-ad28107e2bbb)
+
+
+
+
+
+
