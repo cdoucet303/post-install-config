@@ -105,14 +105,18 @@ We will now click the Teams tab on the second row of tabs and Add a New Team. Fo
 
 
 <p>
-I have not yet created a team but there is a default team already made called Level 1 Support. For this lab I will select that one but will still proceed to make another Team later in this lab. After the Team is selected click on add and we are good to go and hit create on the bottom and create our first Agent!
+I will now show what the Roles tab is for and how many Permissions it has that you can select and tailor for each specific need. The osTicket I have installed came with four default roles All Access, Expanded Access, Limited Access, and View only. I will show the screenshots of the permissions selected in Expanded Access Role so we can get an idea of what permissions there are and how we can select and tailor certain ones to specific roles you may want to create in the future. Also Role is Selected in the Agent creation tab.
 </p>
 <br />
 
+![image](https://github.com/user-attachments/assets/ee055cc3-f12d-461f-8d2d-406a8aedb21c)
 
+![image](https://github.com/user-attachments/assets/707db323-9128-4c8f-b137-5422d96fadc1)
+
+![image](https://github.com/user-attachments/assets/3a54d7b8-94f9-49ee-9661-841b569f86b3)
 
 
 <p>
-I have not yet created a team but there is a default team already made called Level 1 Support. For this lab I will select that one but will still proceed to make another Team later in this lab. After the Team is selected click on add and we are good to go and hit create on the bottom and create our first Agent!
+
 </p>
 <br />
