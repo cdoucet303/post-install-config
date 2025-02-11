@@ -61,14 +61,58 @@ Now on this same screen in the tab where we selected Departments we will now sel
 <br />
 
 <p>
-For this example I will be making the Agent John Doe and give him Administartor Status. After the account info has been entered and status set we will click on Access.
+For this example I will be making the Agent John Doe and give him Administartor Status. After the account info has been entered and status set we will click on Access. Now I see it lets me select a department for my Agent and what kind of Access they should be allowed. For this Lab I will choose the department I just made and give the Agent All Access. It even gives us an option to add this Agent to an additional department but for this lab we will just do one. Now I will select Permissions in the same row of tabs as Account and Access.
 </p>
 <br />
 
 ![image](https://github.com/user-attachments/assets/b4284514-a104-48fa-9e04-ad28107e2bbb)
 
+![image](https://github.com/user-attachments/assets/83df74e5-7a18-4b00-9381-aa04001b9903)
+
+<p>
+For Permissions it will display 4 tabs under the previous row of tabs and it shows Users, Organizations, Knowledgebase, and Miscellaneous. To show each tab with each option for permissions would be tedious so I will show a screen shot of just the User tab permissions and just know each tab has about the same list with checkmarks to select if you want your agent to have certain Permissions. After the permissions have been selected we will now proceed to the Teams tab.
+</p>
+<br />
+
+![image](https://github.com/user-attachments/assets/d514e7f1-da19-4128-a0a9-bdf7cf807fe4)
+
+<p>
+I have not yet created a team but there is a default team already made called Level 1 Support. For this lab I will select that one but will still proceed to make another Team later in this lab. After the Team is selected click on add and we are good to go and hit create on the bottom and create our first Agent!
+</p>
+<br />
+
+![image](https://github.com/user-attachments/assets/1c5f0052-1962-45ec-bb27-844b87f40a5a)
+
+
+<p>
+For the sake of this lab I am going to make another Agent called Jane Doe with less permissions than John Doe and assign this agent to the team we are about to make. Instead of Administrator status I will be selecting the status of "Limit ticket access to ONLY assigned tickets" to demonstrate the access and permissions.
+</p>
+<br />
+
+![image](https://github.com/user-attachments/assets/7eebd1a6-bf89-4c37-8b8e-23c901064151)
+
+
+
+<p>
+We will now click the Teams tab on the second row of tabs and Add a New Team. For this lab I am going to name this one New Employees and add Jane Doe to it and click create.
+</p>
+<br />
+
+![image](https://github.com/user-attachments/assets/da79aabf-fc22-40f2-8fff-527f91199bdb)
+
+![image](https://github.com/user-attachments/assets/f1471f7a-95d1-48e2-95b3-a3fcca7e9c1b)
+
+
+
+<p>
+I have not yet created a team but there is a default team already made called Level 1 Support. For this lab I will select that one but will still proceed to make another Team later in this lab. After the Team is selected click on add and we are good to go and hit create on the bottom and create our first Agent!
+</p>
+<br />
 
 
 
 
-
+<p>
+I have not yet created a team but there is a default team already made called Level 1 Support. For this lab I will select that one but will still proceed to make another Team later in this lab. After the Team is selected click on add and we are good to go and hit create on the bottom and create our first Agent!
+</p>
+<br />
